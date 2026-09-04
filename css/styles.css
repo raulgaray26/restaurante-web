@@ -1,0 +1,29 @@
+* { box-sizing: border-box; }
+
+body {
+    font-family: "Segoe UI", sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #e20208;
+    color: #fff;
+    padding: 20px;
+}
+
+.menu-item {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px;
+}
+
+#menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+}
+
+.menu-item {
+    width: 260px;
+}
