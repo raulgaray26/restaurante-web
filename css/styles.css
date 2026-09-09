@@ -17,7 +17,7 @@ header {
     padding: 12px;
 }
 
-#menu {
+#menu-items {
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
